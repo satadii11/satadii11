@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align=center>Hi love, I'm Satria ❤</h3>
 
 <!--
 **GoLok56/golok56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
